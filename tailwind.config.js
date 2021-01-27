@@ -7,6 +7,8 @@ module.exports = {
      'primary': '#181818',
      'secondary': '#212121',
      'tertiary': '#323232',
+     'quaternary': '#383838',
+     'quintenary': '#424242',
     })
   },
   variants: {
